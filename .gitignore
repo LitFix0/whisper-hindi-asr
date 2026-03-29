@@ -1,0 +1,6 @@
+venv312/
+whisper-hi/
+whisper-hi-final/
+data/
+__pycache__/
+*.pyc
